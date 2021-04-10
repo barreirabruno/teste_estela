@@ -1,0 +1,18 @@
+{
+  "name": "testes_estela",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/teste_a.js",
+    "starta": "node src/teste_b.js",
+    "startb": "node src/teste_c.js",
+    "startc": "node src/teste_d.js",
+    "startd": "node src/teste_e.js",
+    "starte": "node src/teste_f.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
